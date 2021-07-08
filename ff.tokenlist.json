@@ -250,7 +250,7 @@
      "address": "0x6307b25a665efc992ec1c1bc403c38f3ddd7c661",
      "decimals": 18,
      "name": "Global Coin Research",
-     "symbol": "bank",
+     "symbol": "gcr",
      "logoURI": "https://assets.coingecko.com/coins/images/14815/thumb/wun6fV4T_400x400.jpg?1618544214",
      "tags": [
         "social"
@@ -283,7 +283,7 @@
      "address": "0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff",
      "decimals": 18,
      "name": "Defi Omega",
-     "symbol": "defi-omega",
+     "symbol": "dfio",
      "logoURI": "https://assets.coingecko.com/coins/images/12191/thumb/defi_omega_logo.png?1597978243",
      "tags": [
         "social"
