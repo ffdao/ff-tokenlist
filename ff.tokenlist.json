@@ -9,10 +9,10 @@
   "tags": {
     "social": {
       "name": "Social Tokens",
-      "description": "Tokens backed by the reputation of an individual, brand or community"
+      "description": "Forefront Curated List of Social Tokens"
     }
   },
-  "timestamp": "2021-07-10T14:41:25.499000+00:00",
+  "timestamp": "2022-04-16T14:41:25.499000+00:00",
   "tokens": [
    {
      "chainId": 1,
@@ -25,39 +25,21 @@
         "Roll"
      ]
   },
-   {
-     "chainId": 1,
-     "address": "0xDcfE18bc46f5A0Cd0d3Af0c2155d2bCB5AdE2fc5",
-     "decimals": 18,
-     "name": "Hue",
-     "symbol": "HUE",
-     "logoURI": "https://assets.coingecko.com/coins/images/10420/thumb/untitled.png?1579141360",
-     "tags": [
-        "Roll"
-     ]
-  },
-   {
-     "chainId": 1,
-     "address": "0x56687cf29Ac9751Ce2a4E764680B6aD7E668942e",
-     "decimals": 18,
-     "name": "Jamm Session",
-     "symbol": "JAMM",
-     "logoURI": "https://assets.coingecko.com/coins/images/11943/thumb/jamm.png?1602491065",
-     "tags": [
-        "Roll"
-     ]
-  },
-   {
-     "chainId": 1,
-     "address": "0xa19A40FbD7375431fAB013a4B08F00871B9a2791",
-     "decimals": 18,
-     "name": "Swagg",
-     "symbol": "SWAGG",
-     "logoURI": "https://assets.coingecko.com/coins/images/12126/thumb/swagg_logo.png?1597376071",
-     "tags": [
-        "Roll"
-     ]
-  },
+
+  {
+   "chainId": 1,
+   "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+   "decimals": 18,
+   "name": "Ape",
+   "symbol": "APE",
+   "logoURI": "https://assets.coingecko.com/coins/images/24383/large/apecoin.jpg?1647476455",
+   "tags": [
+      "Other"
+   ]
+},
+ 
+   
+  
    {
      "chainId": 1,
      "address": "0x9903A4Cd589DA8e434f264deAFc406836418578E",
@@ -113,17 +95,7 @@
         "Roll"
      ]
   },
-   {
-     "chainId": 1,
-     "address": "0x39Ad22C916F42aF5f67371d6f2Fb0dab42321a89",
-     "decimals": 18,
-     "name": "Osinachi",
-     "symbol": "OSINA",
-     "logoURI": "https://assets.coingecko.com/coins/images/12977/thumb/OSINA_Logo.png?1604019955",
-     "tags": [
-        "Roll"
-     ]
-  },
+   
    {
      "chainId": 1,
      "address": "0xf552b656022c218C26dAd43ad88881Fc04116F76",
@@ -135,17 +107,7 @@
         "Roll"
      ]
   },
-   {
-     "chainId": 1,
-     "address": "0x7841b2a48d1f6e78acec359fed6d874eb8a0f63c",
-     "decimals": 18,
-     "name": "Kerman",
-     "symbol": "KERMAN",
-     "logoURI": "https://assets.coingecko.com/coins/images/11536/thumb/Kerman.png?1590776066",
-     "tags": [
-        "Roll"
-     ]
-  },
+   
    {
      "chainId": 1,
      "address": "0x35bd01fc9d6d5d81ca9e055db88dc49aa2c699a8",
@@ -157,28 +119,8 @@
         "Other"
      ]
   },
-   {
-     "chainId": 1,
-     "address": "0x537a9095b78517597b5f2058edcd6e1978095909",
-     "decimals": 18,
-     "name": "Design",
-     "symbol": "DSGN",
-     "logoURI": "https://assets.coingecko.com/coins/images/13204/thumb/design_logo.jpg?1606196569",
-     "tags": [
-        "Roll"
-     ]
-  },
-   {
-     "chainId": 1,
-     "address": "0x30cf203b48edaa42c3b4918e955fed26cd012a3f",
-     "decimals": 18,
-     "name": "Meta Game",
-     "symbol": "SEED",
-     "logoURI": "https://assets.coingecko.com/coins/images/13099/thumb/V8phEz8V.png?1612854078",
-     "tags": [
-        "Other"
-     ]
-  },
+ 
+   
    {
      "chainId": 1,
      "address": "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9",
@@ -190,17 +132,7 @@
         "Other"
      ]
   },
-   {
-     "chainId": 1,
-     "address": "0x1287c0509df9a475ef178471ab2132b9dfd312b3",
-     "decimals": 18,
-     "name": "LADZ",
-     "symbol": "LADZ",
-     "logoURI": "https://assets.coingecko.com/coins/images/13315/thumb/ladz_logo.jpg?1607408640",
-     "tags": [
-        "Roll"
-     ]
-  },
+  
    {
      "chainId": 1,
      "address": "0x35872fea6a4843facbcdbce99e3b69596a3680b8",
@@ -256,17 +188,7 @@
         "Coinvise"
      ]
   },
-   {
-     "chainId": 1,
-     "address": "0xe6710e0cda178f3d921f456902707b0d4c4a332b",
-     "decimals": 18,
-     "name": "Julien",
-     "symbol": "JULIEN",
-     "logoURI": "https://assets.coingecko.com/coins/images/12954/thumb/julien_logo.jpg?1603792446",
-     "tags": [
-        "Roll"
-     ]
-  },
+  
    {
      "chainId": 1,
      "address": "0x64d91f12ece7362f91a6f8e7940cd55f05060b92",
@@ -278,17 +200,7 @@
         "Other"
      ]
   },
-   {
-     "chainId": 1,
-     "address": "0xee3b9b531f4c564c70e14b7b3bb7d516f33513ff",
-     "decimals": 18,
-     "name": "Defi Omega",
-     "symbol": "DFIO",
-     "logoURI": "https://assets.coingecko.com/coins/images/12191/thumb/defi_omega_logo.png?1597978243",
-     "tags": [
-        "Other"
-     ]
-  },
+   
    {
      "chainId": 1,
      "address": "0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198",
